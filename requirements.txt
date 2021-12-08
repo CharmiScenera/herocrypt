@@ -7,5 +7,5 @@ pandas==1.0.5
 Flask_Cors==3.0.9
 opencv_python==4.5.2.54
 pymongo==3.11.0
-azure_storage==0.37.0
+azure-storage-blob
 Pillow==8.4.0
