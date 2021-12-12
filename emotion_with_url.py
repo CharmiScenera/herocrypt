@@ -3,7 +3,7 @@ import pymongo
 import numpy as np
 import ssl
 import numpy as np
-#import cv2
+import cv2
 from flask_cors import CORS
 from PIL import Image
 import requests
